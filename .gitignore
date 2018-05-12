@@ -1,0 +1,12 @@
+.DS_Store
+
+node_modules/*
+documentation/*
+e2e/*
+typings/*
+
+
+!application/cache/index.html
+
+application/logs/*
+!application/logs/index.html
